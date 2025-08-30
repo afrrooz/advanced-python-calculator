@@ -11,12 +11,16 @@ A scientific calculator built in Python with **two versions**:
 - Features: Arithmetic + Square Root + Factorial + Trigonometric functions, History log to `history.txt`.
 
 ### 🔸 GUI Version
-- Location: `/gui_version/`
+- Location: `/GUI version/`
 - Run: `python calculator.py`
-- Features: Tkinter-based calculator with buttons and error handling.
+- Features: Tkinter-based calculator with interactive buttons and error handling.
 
-#### 🖼️ Screenshot
-![Calculator GUI](screenshot.png)
+**Screenshots:**
+
+![Calculator GUI - Home](GUI%20version/screenshot60.png)
+![Calculator GUI - Operation](GUI%20version/screenshot61.png)
+![Calculator GUI - Result](GUI%20version/screenshot62.png)
+
 
 
 ## 🛠 Tech
