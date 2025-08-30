@@ -17,9 +17,9 @@ A scientific calculator built in Python with **two versions**:
 
 **Screenshots:**
 
-![Calculator GUI - Home](GUI%20version/screenshot60.png)
-![Calculator GUI - Operation](GUI%20version/screenshot61.png)
-![Calculator GUI - Result](GUI%20version/screenshot62.png)
+![Calculator GUI - Home](GUI%20version/screenshot(60).png)
+![Calculator GUI - Operation](GUI%20version/screenshot(61).png)
+![Calculator GUI - Result](GUI%20version/screenshot(62).png)
 
 
 
