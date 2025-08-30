@@ -15,6 +15,10 @@ A scientific calculator built in Python with **two versions**:
 - Run: `python calculator.py`
 - Features: Tkinter-based calculator with buttons and error handling.
 
+#### 🖼️ Screenshot
+![Calculator GUI](screenshot.png)
+
+
 ## 🛠 Tech
 Python 3, Tkinter, `math` module, file handling.
 
